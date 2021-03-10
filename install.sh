@@ -1,0 +1,1 @@
+cp  myscript.sh ~/bin/
